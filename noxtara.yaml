@@ -1,6 +1,6 @@
 scan:
   code:
-    entryId: sH4YKvMS9RwipVtnv9Ypr2
+    entryId: qAQkjnme4GaMSiNcf6U3wy
     from: ./
     ignore:
        - 'node_modules/**'
