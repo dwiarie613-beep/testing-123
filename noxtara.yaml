@@ -1,0 +1,13 @@
+scan:
+  code:
+    entryId: qAQkjnme4GaMSiNcf6U3wy
+    from: ./
+    ignore:
+       - 'node_modules/**'
+       - 'dist/**'
+       - '.github/**'
+       - 'docs/**'
+       - 'graphql/**'
+       - 'libs/**'
+       - '**/*.test.ts'
+       - '**/*.spec.ts'
